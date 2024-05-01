@@ -1,0 +1,40 @@
+
+    body {
+        background-color: #19c652;
+        color: white;
+    }
+    
+    h1 {
+      color: #588900;
+      text-align: center;
+      font-family: CMU Serif;
+      font-size: 40px;
+      padding:15px;
+      background-color: lightblue;
+      font-weight: 700;
+    }
+    
+    p {
+      font-family: CMU Serif;
+      font-size: 20px;
+      background-color: #ff5537;
+      padding:20px;
+      border: #053e73 18px solid;
+    }
+    
+    p {
+      font-family: CMU Serif;
+      font-size: 20px;
+      background-color: #ff5537;
+      padding:20px;
+      border: #053e73 18px solid;
+      font-weight: 700;
+      float: left;
+     
+    }
+    img{
+      display: block;
+    margin-left: auto;
+    margin-right: auto;
+width: 40%;
+    }
